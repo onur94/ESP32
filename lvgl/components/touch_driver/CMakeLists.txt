@@ -1,1 +1,0 @@
-idf_component_register(SRCS "gt911.c" "i2c_manager.c" INCLUDE_DIRS "include" REQUIRES lvgl driver freertos)
