@@ -1,0 +1,15 @@
+dependencies:
+  idf:
+    component_hash: null
+    source:
+      type: idf
+    version: 5.2.1
+  lvgl:
+    component_hash: null
+    source:
+      path: C:\Users\onuur\Desktop\esp32\LVGL_UI\components\lvgl
+      type: local
+    version: 8.4.0
+manifest_hash: 15b40becc979bafcb476adcbb80558e17df1d45451876e4cb6d5e1b38daf5d56
+target: esp32s3
+version: 1.0.0
