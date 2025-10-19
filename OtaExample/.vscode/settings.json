@@ -1,0 +1,13 @@
+{
+  "C_Cpp.intelliSenseEngine": "default",
+  "idf.espIdfPathWin": "D:\\ESP-IDF\\v5.2.1\\esp-idf",
+  "idf.pythonInstallPath": "D:\\ESP-IDF\\.espressif\\tools\\idf-python\\3.11.2\\python.exe",
+  "idf.openOcdConfigs": [
+    "board/esp32s3-builtin.cfg"
+  ],
+  "idf.portWin": "COM3",
+  "idf.toolsPathWin": "D:\\ESP-IDF\\.espressif",
+  "idf.customExtraVars": {
+    "IDF_TARGET": "esp32s3"
+  }
+}
